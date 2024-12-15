@@ -6,15 +6,11 @@ A Machine Learning project that helps doctors detect whether patients need treat
 ## Step 1: Clone the Repository or Download the ZIP
 
 Clone the repository or download the ZIP file from the following Git link:
-`https://github.com/Vishal4198/DocAssist`
+(https://github.com/shashankmula/DocAssist--dataset)
 
-## Step 2: Folder Structure
 
-Ensure your project has the following folder structure:
 
-![Folder Structure](static/folder_structure.jpg)
-
-## Step 3: Open and Run the Notebook
+## Step 2: Open and Run the Notebook
 
 1. Open the `sourcecode.ipynb` file from the `notebooks` folder.
 2. Run each cell in the Jupyter Notebook or VScode.
